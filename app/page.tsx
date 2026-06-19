@@ -97,7 +97,7 @@ export default function Home() {
         </section>
 
         <section className="section embedded" aria-labelledby="embedded-title">
-          <div className="container"><div className="section-heading split"><div><span className="kicker">اكتشف المزيد</span><h2 id="embedded-title">تجربة لارا الكاملة</h2></div><p>تصفّح الموقع الكامل لشركة لارا للطباعة والإعلان، وتعرّف على الأعمال والحلول المتاحة مباشرة من هنا.</p></div><div className="browser-frame"><div className="browser-bar"><span className="dots"><i /><i /><i /></span><span className="address">lara-advertising-printing.vercel.app</span><a href={detailsUrl} target="_blank" rel="noopener noreferrer" aria-label="فتح الموقع في نافذة جديدة">↗</a></div><iframe src={detailsUrl} title="الموقع الكامل لشركة لارا للطباعة والإعلان" loading="lazy" allow="fullscreen" /></div></div>
+          <div className="container"><div className="section-heading split"><div><span className="kicker">اكتشف المزيد</span><h2 id="embedded-title">تجربة لارا الكاملة</h2></div><p>تصفّح الموقع الكامل لشركة لارا للطباعة والإعلان، وتعرّف على الأعمال والحلول المتاحة مباشرة من هنا.</p></div><div className="browser-frame"><div className="browser-bar"><span className="dots"><i /><i /><i /></span><span className="address">lara-advertising-printing.vercel.app</span><a href={detailsUrl} target="_blank" rel="noopener noreferrer" aria-label="فتح الموقع في نافذة جديدة">↗</a></div><iframe src={detailsUrl} title="الموقع الكامل لشركة لارا للطباعة والإعلان" loading="lazy" scrolling="no" allow="fullscreen" /></div></div>
         </section>
 
         <section className="contact" id="contact">
