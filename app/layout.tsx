@@ -21,6 +21,9 @@ export const metadata: Metadata = {
   authors: [{ name: "شركة لارا للطباعة في الرياض" }],
   creator: "شركة لارا للطباعة",
   publisher: "خدمات الطباعة في الرياض",
+  verification: {
+    google: "eMz8EexTzfYLfdkf-cuX2_BOqFth5Pdp74XiY7bJK7k",
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",
